@@ -37,6 +37,8 @@ body{
 
 .ankor{
     margin: 8px;
+    text-decoration: inherit;
+    color: inherit;
 }
 
 .img__center_souq{
